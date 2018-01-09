@@ -1,2 +1,3 @@
 # DockersDock
-my customized dockerfiles
+
+This repo is built to host all my customized dockerfiles.
